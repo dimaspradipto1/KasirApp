@@ -1,12 +1,12 @@
 import React, { Component } from "react";
 import { Col } from "react-bootstrap";
 
-export default class ListCategories extends Component {
+export default class Hasil extends Component {
   render() {
     return (
-      <Col md={2}>
+      <Col md={3}>
         <h4>
-          <strong>Daftar Kategori</strong>
+          <strong>Hasil</strong>
         </h4>
         <hr />
       </Col>
